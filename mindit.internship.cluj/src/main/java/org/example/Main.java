@@ -2,6 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
+
         // What will be printed?
 
         int a = 18;
@@ -13,5 +14,9 @@ public class Main {
 
         System.out.println(str);
         System.out.println(c);
+=======
+        System.out.println("Hello world!");
+        System.out.println("Salut Cristi");
+
     }
 }
